@@ -1,0 +1,35 @@
+{
+  "name": "powershellconnectwisefront",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.4.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "moment": "^2.27.0",
+    "portal-vue": "^2.1.7",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-command": "^13.5.3",
+    "vue-terminal-ui": "^0.1.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "powershellconnectwisefront@0.1.0",
+  "readme": "ERROR: No README data found!"
+}
